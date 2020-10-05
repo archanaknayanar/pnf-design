@@ -17,13 +17,14 @@ body {
 }
 /**.error-code {
     color: #FFD700;
-    margin: 0;
+    margin: 
     font-size: 130px;
     
     line-height: 100px;
     letter-spacing: 25px;
     opacity: .3; 
     font-family: 'Courier New', Courier, monospace; 
+
 } **/
 
 .emoji {
